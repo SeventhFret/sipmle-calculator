@@ -1,6 +1,6 @@
 # Simple calculator task
 
-Simple program in Python with `input()` function!
+Simple program in Python with `sys.argv` function!
 
 
 
